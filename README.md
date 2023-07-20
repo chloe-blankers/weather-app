@@ -8,6 +8,8 @@ create .env file to store
 
 ### Font-End
 
+`npm install`
+<br/>
 `npm start`
 
 ### Back-End
