@@ -88,7 +88,6 @@ function App() {
         if (json.cod == 200) {
           const uniqueLocation = { ...json, id: uuidv4() };
           setLocations([...locations, uniqueLocation]);
-          console.log(json);
         } else {
           toast.error("Please input a valid location");
         }
