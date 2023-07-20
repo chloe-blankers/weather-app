@@ -1,10 +1,10 @@
 # Set Up
 
-## Font-End
+### Font-End
 
 `npm start`
 
-## Back-End
+### Back-End
 
 `npm run start:backend`
 
